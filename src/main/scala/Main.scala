@@ -1,4 +1,4 @@
-package com.jackbeasley.enigma
+package com.jackbeasley.wordFind
 
 object Main {
   def main(args: Array[String]) = println("Test")
