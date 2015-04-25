@@ -19,3 +19,6 @@ project/plugins/project/
 # Ensime
 .ensime
 .ensime_cache
+
+# OSX
+*.DS_Store
